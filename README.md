@@ -1,4 +1,4 @@
-# Tic Tac Toe - HTML Canvas Edition
+# Tic Tac Toe
 
 An incredibly simple Tic Tac Toe game created using HTML Canvas and JavaScript.
 
