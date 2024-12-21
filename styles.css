@@ -30,4 +30,10 @@ footer {
     font-family: sans-serif;
     margin: .5rem;
     padding: .5rem;
+
+    display: block;
+    
+    position: relative;
+    left:50%;
+    transform: translateX(-50%);
 }
